@@ -21,7 +21,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de **Engenharia de Software** na Faculdade Descomplica (com previsão de conclusão em **dezembro de 2028**), combinando uma forte base técnica com uma rica e diversificada bagagem profissional prévia. 
+Sou estudante de **Engenharia de Software** na Faculdade Descomplica/UniAmerica (com previsão de conclusão em **dezembro de 2028**), combinando uma forte base técnica com uma rica e diversificada bagagem profissional prévia. 
 
 Minha trajetória é marcada pela versatilidade: atuei na área de gestão educacional (como Coordenador Pedagógico e Diretor Escolar), além de possuir sólida experiência em logística e manutenção técnica. Essa vivência multidisciplinar me proporcionou uma visão analítica aguçada, excelente capacidade de resolução de problemas, foco em liderança humanizada e uma facilidade natural para entender as dores dos usuários e traduzi-las em soluções digitais eficientes.
 
