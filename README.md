@@ -31,7 +31,7 @@ Atualmente, concentro meus estudos e projetos no ecossistema **Java, Spring Boot
 
 ### 📚 Formação Acadêmica & Certificações
 
-* **Bacharelado em Engenharia de Software** — Faculdade Descomplica *(Cursando 2023 – Dez/2028)*
+* **Bacharelado em Engenharia de Software** — Descomplica/UniAmerica *(Cursando 2023 – Dez/2028)*
 * **Licenciatura em Matemática** - UNINTER
 * **Pós-graduação Lato Sensu em Gestão Escolar** — Faculdade Focus
 * **Tecnólogo em Gestão Financeira** — UNINTA
