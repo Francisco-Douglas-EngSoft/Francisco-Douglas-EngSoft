@@ -12,45 +12,59 @@
   <a href="mailto:franciscodouglas.dev@outlook.com">
     <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://github.com/Francisco-Douglas-EngSoft" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou estudante de **Engenharia de Software** na Faculdade Descomplica (previsão de conclusão em 2027)[cite: 2] e possuo uma rica bagagem multidisciplinar que inclui passagens por Gestão Financeira[cite: 2], Gestão Escolar[cite: 5] e desenvolvimento tecnológico. 
+Sou estudante de **Engenharia de Software** na Faculdade Descomplica (com previsão de conclusão em **dezembro de 2028**), combinando uma forte base técnica com uma rica e diversificada bagagem profissional prévia. 
 
-Atualmente, foco meus estudos no ecossistema **Java, Spring Boot e Soluções com Inteligência Artificial**, combinando lógica analítica, experiência em liderança e paixão por construir ferramentas digitais funcionais e escaláveis.
+Minha trajetória é marcada pela versatilidade: atuei na área de gestão educacional (como Coordenador Pedagógico e Diretor Escolar), além de possuir sólida experiência em logística e manutenção técnica. Essa vivência multidisciplinar me proporcionou uma visão analítica aguçada, excelente capacidade de resolução de problemas, foco em liderança humanizada e uma facilidade natural para entender as dores dos usuários e traduzi-las em soluções digitais eficientes.
+
+Atualmente, concentro meus estudos e projetos no ecossistema **Java, Spring Boot, desenvolvimento Front-End moderno e Soluções com Inteligência Artificial**, buscando sempre entregar aplicações escaláveis, funcionais e com alto padrão de usabilidade.
+
+---
+
+### 📚 Formação Acadêmica & Certificações
+
+* **Bacharelado em Engenharia de Software** — Faculdade Descomplica *(Cursando 2023 – Dez/2028)*
+* **Pós-graduação Lato Sensu em Gestão Escolar** — Faculdade Focus
+* **Tecnólogo em Gestão Financeira** — UNINTA
+* **Certificações Principais:** Formação Front-End Developer, UX/UI Designer, JavaScript e Fundamentos Web (DIO).
 
 ---
 
 ### 🛠️ Habilidades Técnicas
 
-* **Linguagens & Frameworks:** Java, JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS, SASS, Bootstrap.
-* **Ferramentas & Plataformas:** Git, GitHub, VS Code, Figma, Vite, Postman, Chrome DevTools.
-* **Boas Práticas:** Clean Code, Componentização, Responsividade, Acessibilidade, Mobile-First.
+* **Linguagens & Frameworks:** Java, Spring Boot, JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS, SASS, Bootstrap.
+* **Ferramentas & Plataformas:** Git, GitHub, VS Code, Figma, Vite, Postman, Chrome DevTools, Supabase.
+* **Boas Práticas & Metodologias:** Clean Code, Componentização, Responsividade, Acessibilidade, Mobile-First, Arquitetura de Software.
 
 ---
 
 ### 💻 Principais Projetos
 
-Abaixo estão alguns dos principais sistemas e aplicações desenvolvidos por mim:
+Abaixo estão alguns dos principais sistemas e aplicações desenvolvidas por mim, englobando portais institucionais, ferramentas de gestão e soluções integradas:
 
-| Projeto | Descrição / Foco |
+| Projeto | Descrição / Foco Principal |
 | :--- | :--- |
-| **[Sema-Meio Ambiente](https://github.com/Francisco-Douglas-EngSoft/sema-ambiente)** | Sistema de Gestão Ambiental integrado com denúncias, licenciamento e portal do cidadão. |
-| **[Edu-Connect-ai](https://github.com/Francisco-Douglas-EngSoft/educonnect-ai)** | Plataforma educacional integrada com inteligência artificial. |
-| **[Ouvidoria Assunção](https://github.com/Francisco-Douglas-EngSoft/ouvidoria-assuncaopi)** | Canal de atendimento e ouvidoria municipal digital. |
-| **[Sync Security](https://github.com/Francisco-Douglas-EngSoft/sync_security)** | Solução voltada para segurança de sistemas e dados. |
-| **[Nexus EngSoftware](https://github.com/Francisco-Douglas-EngSoft/nexus-engsoftware)** | Hub de engenharia de software e soluções tecnológicas. |
-| **[CarDrive Catalog](https://github.com/Francisco-Douglas-EngSoft/cardrive-catalog)** | Catálogo interativo e dinâmico para veículos e automóveis. |
-| **[Finanças Pessoais](https://github.com/Francisco-Douglas-EngSoft/financy-pessoais)** | Aplicação de controle financeiro e gestão de orçamento pessoal. |
-| **[SuperMerc](https://github.com/Francisco-Douglas-EngSoft/supermec)** | Sistema de gestão e vitrine para supermercados. |
-| **[BarPro Gestão](https://github.com/Francisco-Douglas-EngSoft/bar-pro)** | Solução voltada para o gerenciamento de bares e estabelecimentos. |
-| **[EsportGest](https://github.com/Francisco-Douglas-EngSoft/esportgest)** | Plataforma de gestão esportiva e controle de campeonatos/atividades. |
-| **[Clinic Pet Feliz](https://github.com/Francisco-Douglas-EngSoft/clinic-petfeliz)** | Sistema de agendamento e gestão para clínicas veterinárias. |
-| **[Portal Assunção](https://github.com/Francisco-Douglas-EngSoft/portal-assuncao)** | Portal de serviços e informações institucionais. |
-| **[Portfolio Pessoal](https://github.com/Francisco-Douglas-EngSoft/portfolio-francisco)** | Meu portfólio profissional interativo apresentando meus trabalhos. |
+| **Sema-Meio Ambiente** | Sistema de Gestão Ambiental integrado com denúncias, licenciamento e portal do cidadão. |
+| **Edu-Connect-ai** | Plataforma educacional inteligente integrada com recursos de inteligência artificial. |
+| **Ouvidoria Assunção** | Canal digital de atendimento, escuta ativa e ouvidoria municipal. |
+| **Sync Security** | Solução voltada para a segurança de sistemas, controle de acessos e dados. |
+| **Nexus EngSoftware** | Hub dedicado à engenharia de software e inovações tecnológicas. |
+| **CarDrive Catalog** | Catálogo interativo e dinâmico para vitrines e anúncios de veículos. |
+| **Finanças Pessoais** | Aplicação robusta para controle orçamentário e planejamento financeiro pessoal. |
+| **SuperMerc** | Sistema de gestão comercial, vitrine e controle para supermercados. |
+| **BarPro Gestão** | Solução especializada para o gerenciamento de bares, estoque e atendimento. |
+| **EsportGest** | Plataforma voltada para a gestão esportiva e controle de atividades. |
+| **Clinic Pet Feliz** | Sistema de agendamento, prontuários e gestão para clínicas veterinárias. |
+| **Portal Assunção** | Portal de serviços, transparência e informações institucionais. |
+| **Portfolio Pessoal** | Meu portfólio profissional interativo apresentando meus trabalhos e trajetória. |
 
 ---
 
@@ -64,4 +78,4 @@ Abaixo estão alguns dos principais sistemas e aplicações desenvolvidos por mi
 
 ### 📫 Vamos Conectar?
 
-Estou sempre aberto a novas oportunidades, projetos colaborativos e desafios inovadores na área de tecnologia. Sinta-se à vontade para entrar em contato!
+Estou sempre aberto a novas oportunidades, conexões profissionais, projetos colaborativos e desafios inovadores na área de tecnologia. Sinta-se à vontade para me chamar em um dos canais acima!
